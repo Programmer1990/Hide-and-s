@@ -3,7 +3,7 @@ import './index.css';
 import Student from './Student';
 
 function App(){
-  const[status, setStatus]=React.useState(true)
+  const[status, setStatus]=React.useState(true) //if we put false here then text will be disappear and only be visible on click.
      
     
   
